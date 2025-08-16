@@ -27,7 +27,7 @@ Here are some of the AI and data science tools I frequently use:
 ## 🤝 Connect with Me
 
 Feel free to connect with me on social media or send me an email. Let's collaborate and build something amazing together! 🌟
-- 📫 **Contact**: [rendelibas@gmail.com](mailto:rendelibas@gmail.com)
+- 📫 **Contact**: [ceren.bayrak030@gmail.com](mailto:ceren.bayrak030@gmail.com)
 - 🌐 **LinkedIn**: [Ceren Bayrak](https://www.linkedin.com/in/ceren-bayrak1)
 ---
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=renchuu&show_icons=true&theme=radical)
